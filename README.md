@@ -1,3 +1,3 @@
-# SQLBolt-SQL-Tasks
+# SQLBolt-Task:
 
 Tasks from -> https://sqlbolt.com/
